@@ -18,11 +18,21 @@ Esta aplicación es un juego interactivo para sortear el "amigo secreto" entre u
 
 ## Cómo usar la aplicación 
 
-1. Escribe el nombre de un amigo en el campo de texto.
-2. Haz clic en el botón **"Añadir"** para agregarlo a la lista de participantes.
-3. Repite los pasos anteriores para ingresar todos los nombres.
-4. Una vez que todos los nombres estén agregados, haz clic en el botón **"Sortear amigo"** para realizar el sorteo.
-5. El resultado aparecerá debajo de la lista de participantes.
+- Escribe el nombre de un amigo en el campo de texto.
+  ![image](https://github.com/user-attachments/assets/d8e4c7c1-2938-4030-bcd0-cae686fbb097)
+
+- Haz clic en el botón **"Añadir"** para agregarlo a la lista de participantes.
+  ![image](https://github.com/user-attachments/assets/56143585-d546-4110-a5a3-c615f9c70598)
+
+- Repite los pasos anteriores para ingresar todos los nombres.
+  ![image](https://github.com/user-attachments/assets/903bd4a3-576a-4fe7-880e-1b0939cf269e)
+
+- Una vez que todos los nombres estén agregados, haz clic en el botón **"Sortear amigo"** para realizar el sorteo.
+  ![image](https://github.com/user-attachments/assets/a76ba81c-26a0-42fe-a032-c157acb6f31e)
+
+- El resultado aparecerá debajo de la lista de participantes.
+  ![image](https://github.com/user-attachments/assets/9b107fdd-2d17-4d11-a466-5a400f2ddf7e)
+
 
 ## Requisitos del proyecto 
 
@@ -31,12 +41,6 @@ Este proyecto utiliza las siguientes tecnologías:
 - HTML: Estructura principal de la página.
 - CSS: Estilos básicos para la interfaz.
 - JavaScript: Lógica principal del juego.
-
-## Captura de Pantalla 
-
-¡Agrega una captura de pantalla de la aplicación funcionando aquí!
-
-
 
 ### Próximas Mejoras 
 
